@@ -249,7 +249,7 @@ header nav .icons a:hover{
 
 
 .hero .div_img{
-    width: 40%;
+    width: 70%;
     position: relative;
     border-radius: 0 0 600px 600px;
 
@@ -707,7 +707,7 @@ header .links .logo,
         height: auto;
     }
     .hero .div_img{
-        width: 55%;
+        width: 80%;
     }
     .about .container{
         flex-direction: column;
@@ -816,7 +816,7 @@ header .links .logo,
         width: 100%;
     }
     .hero .div_img{
-        width: 75%;
+        width: 95%;
     }
     .hero .btn {
         font-size: 16px;
